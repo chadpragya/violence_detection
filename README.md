@@ -33,7 +33,6 @@ The system consists of three main components:
 violence-detection-system/
 ├── best.pt                    # Fine-tuned YOLOv8 model weights
 ├── streamlitnew.py           # Main Streamlit application
-├── vd_doc.pdf               # Complete project documentation
 ├── yolo_fine_tune.ipynb     # Model training notebook
 ├── yolo_fine_tune.py        # Training script
 ├── requirements.txt         # Python dependencies
